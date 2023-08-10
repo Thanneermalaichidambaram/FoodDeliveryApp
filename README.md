@@ -1,2 +1,16 @@
-# FoodDeliveryApp
-A food delivery app is a mobile application that allows users to order food from local restaurants and have it delivered to their doorstep. These apps typically have a wide selection of restaurants to choose from, as well as a variety of payment options. Some food delivery apps also offer features such as real-time tracking of orders, in
+# project
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
