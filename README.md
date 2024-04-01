@@ -1,6 +1,3 @@
-Sure, here's a template for a README file for your Food Delivery Application developed using Flutter:
-
----
 
 # Food Delivery Application
 
