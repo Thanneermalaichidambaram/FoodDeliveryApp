@@ -43,14 +43,6 @@ To run the Food Delivery Application on your device or simulator, follow these s
    flutter run
    ```
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-*Add a brief description of the screenshot.*
-
-![Screenshot 2](screenshots/screenshot2.png)
-*Add a brief description of the screenshot.*
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the development of the Food Delivery Application, please follow these guidelines:
@@ -64,5 +56,3 @@ Contributions are welcome! If you'd like to contribute to the development of the
 
 
 ---
-
-You can customize this template by replacing placeholders like `yourusername`, `food-delivery-app`, and adding actual screenshots of your application. Additionally, you can provide more detailed instructions or information about specific features of your Food Delivery Application as needed.
